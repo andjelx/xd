@@ -27,6 +27,7 @@ export XD_PROFILE="arn:aws:iam::99999999:instance-profile/xd-scraper"
 export INSTANCE_TYPE=r3.large
 export EBS_VOLUME_ID=
 export SSH_SECURITY_GID=
+export SUBNET_ID=
 export XDPRIV=
 #export INSTANCE_ID=
 
